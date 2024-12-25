@@ -1,3 +1,5 @@
+// Хромов Павел Андреевич ИУС-бд-02-23
+
 #include <stdio.h>
 
 typedef struct node{
